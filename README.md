@@ -1,7 +1,3 @@
-Here’s a **GitHub-ready, cleanly formatted README** you can **directly paste**.
-It’s technical, concise, and reviewer-friendly.
-
----
 
 # AI Game Referee – Rock–Paper–Scissors–Plus
 
